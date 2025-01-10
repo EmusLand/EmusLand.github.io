@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ASDASDASDA.asd.sads.asd",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
